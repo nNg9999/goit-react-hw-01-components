@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/goit-react/static/js/main.aa07d7ef.chunk.js",
+    "main.js.map": "/goit-react/static/js/main.aa07d7ef.chunk.js.map",
+    "runtime-main.js": "/goit-react/static/js/runtime-main.f6af19eb.js",
+    "runtime-main.js.map": "/goit-react/static/js/runtime-main.f6af19eb.js.map",
+    "static/js/2.888f33fa.chunk.js": "/goit-react/static/js/2.888f33fa.chunk.js",
+    "static/js/2.888f33fa.chunk.js.map": "/goit-react/static/js/2.888f33fa.chunk.js.map",
+    "index.html": "/goit-react/index.html",
+    "precache-manifest.945b1ff156620fc3f5185b268510a950.js": "/goit-react/precache-manifest.945b1ff156620fc3f5185b268510a950.js",
+    "service-worker.js": "/goit-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/goit-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.888f33fa.chunk.js.LICENSE.txt": "/goit-react/static/js/2.888f33fa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goit-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6af19eb.js",
+    "static/js/2.888f33fa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aa07d7ef.chunk.js"
+  ]
+}
